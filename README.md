@@ -1,8 +1,8 @@
-# GGToken - Powers GGDApp
+# GGToken
 
 [Verify Contract](https://etherscan.io/token/0xfa99a87b14b02e2240c79240c5a20f945ca5ef76)
 
-GGDApp is a gaming ecosystem and DApp that rewards players, developers and investors, powered by GGToken
+GGTK is the token of GGDApp, a gaming ecosystem and DApp that rewards players, developers and investors.
 
 ## GG Token (GGTK) Details
 
